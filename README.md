@@ -1,6 +1,6 @@
 # Login-rutflix
 https://RuOliveira/login-rutflix.io
-Página de login da <strong>Rutflix</strong>, que tentei copiar da página de login original da Netflix.
+Cópia da página de login da Netflix. Na <strong>Rutflix</strong>, copiei alguns itens da página original, mas não todos. utilizei apenas html e css.
 
 Rutflix foi uma atividade desenvolvida durante a Imersão Dev da Alura. O projeto pode ser visualizado no link: https://github.com/RuOliveira/Rutflix-imersaoDev
 
